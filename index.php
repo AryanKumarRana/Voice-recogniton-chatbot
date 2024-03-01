@@ -15,7 +15,7 @@
 <body>
     <div id="starting">
         <div id="title">
-            ChatBot &nbsp; <img src="chatbot-icon.png" height="80px" width="80px">
+            ChatBot &nbsp; <img src="images\chatbot-icon.png" height="80px" width="80px">
         </div>
         <div id="background-content">
         At a technical level, a chatbot is a computer program that simulates human conversation to solve customer queries. When a customer or a lead reaches out via any channel, the chatbot is there to welcome them and solve their problems. They can also help the customers lodge a service request, send an email or connect to human agents if need be.
@@ -38,7 +38,7 @@
 
     <!-- CHAT BAR BLOCK -->
 <div class="chat-bar-collapsible">
-        <button id="chat-button" type="button" class="collapsible"><img src="profile_image.png">Chat with us! &nbsp;
+        <button id="chat-button" type="button" class="collapsible"><img src="images\profile_image.png">Chat with us! &nbsp;
             <i id="chat-icon" style="color: #fff; paddng-left:3px;" class="fa fa-comments"></i>
         </button>
 
